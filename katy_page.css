@@ -1,0 +1,12 @@
+body {
+    background-image: url('la\ centerra\ goodbye.jpg');
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: cover; 
+    min-height: 100vh; 
+    background-attachment: fixed;
+
+    background-color: #945f50;
+    margin: 0;
+    text-align: center;
+}
