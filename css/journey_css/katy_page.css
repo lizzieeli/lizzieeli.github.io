@@ -1,0 +1,26 @@
+body {
+    background-image: url('/lizzieeli.github.io/img/la\ centerra\ goodbye.jpg');
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: cover; 
+    min-height: 10vh; 
+    background-attachment: fixed;
+
+    background-color: #3F4654;
+    margin: 0;
+    padding: 1.5em;
+    text-align: center;
+}
+
+.text-box{
+    background-color:#3F4654;
+    border: 2px solid #ffff;    /* Border thickness, style, and color */
+    border-radius: 8px;           /* Rounds the corners of the box */
+    padding: 20px;                /* Inner space between text and border */
+    margin: 15px 0;               /* Outer space around the box */
+    max-width: 400px;             /* Keeps the box from getting too wide */
+    box-sizing: border-box;       /* Keeps padding from breaking width calculation */
+    width: 500px;
+    height: 280px;
+    field-sizing: fixed;
+}
