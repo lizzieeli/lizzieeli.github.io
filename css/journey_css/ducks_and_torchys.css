@@ -1,5 +1,5 @@
 body {
-    background-image: url('/lizzieeli.github.io/img/la\ centerra\ goodbye.jpg');
+    background-image: url('/lizzieeli.github.io/img/torchys\ tacos.jpg');
     background-repeat: no-repeat;
     background-position: center center; 
     background-size: cover; 
@@ -21,9 +21,8 @@ body {
     max-width: 400px;             /* Keeps the box from getting too wide */
     box-sizing: border-box;       /* Keeps padding from breaking width calculation */
     width: 500px;
-    height: 280px;
+    height: 400px;
     field-sizing: fixed;
-    
 }
 
  /* The container holding the button */
@@ -33,7 +32,7 @@ body {
     pointer-events: none; 
     
     /* Applies the animation: name, duration, timing, delay, fill-mode */
-    animation: revealButton 0s linear 24s forwards;
+    animation: revealButton 0s linear 38s forwards;
 }
 
 /* Styling for the button itself */
