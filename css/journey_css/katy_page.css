@@ -1,5 +1,5 @@
 body {
-    background-image: url('/lizzieeli.github.io/img/la\ centerra\ goodbye.jpg');
+    background-image: url('../../img/la\ centerra\ goodbye.jpg'); /* Doing relative paths because it might be messing up the website ngl */
     background-repeat: no-repeat;
     background-position: center center; 
     background-size: cover; 
